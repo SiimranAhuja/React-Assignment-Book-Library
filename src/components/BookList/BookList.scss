@@ -1,0 +1,16 @@
+.heading {
+    font-weight: 500;
+    font-style: italic;
+    flex-grow: 1;
+    text-align: center;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem; 
+
+}
+.dropdown {
+    width: 250px
+}
